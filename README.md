@@ -4,7 +4,11 @@
 
 ### Project Description:
 
-In this project, you will build a serverless web application using AWS Lambda, DynamoDB, and S3. The application will allow users to create, read, update, and delete (CRUD) items from a DynamoDB table.
+Developed a serverless web application enabling users to perform Create, Read, Update, and Delete (CRUD) operations on items stored in a DynamoDB table.
+Utilized AWS Lambda for backend processing to handle all CRUD operations, ensuring a scalable and serverless architecture.
+Stored and retrieved static assets from Amazon S3, integrating it with the application for efficient data storage and management.
+Leveraged AWS DynamoDB for fast, flexible NoSQL database services, handling data persistence and optimizing query performance.
+Focused on cost-efficient cloud solutions, ensuring high availability, scalability, and resilience for the application.
 
 ### Project Architecture:
 
